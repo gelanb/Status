@@ -10,7 +10,7 @@ Steven Dang
 
 #### Project title
 
-TODO
+Scrapify
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have learned how to install a virtual environment and how to use the terminal.
 
 #### What have you not done for your project yet?
 
-TODO
+I have not yet done how to go to tiktok and scrape the data and store them in a database.
 
 #### What problems, if any, have you encountered?
 
-TODO
+Idle stopped working for me and popped up with a message saying something about a start up failure. I tried to fix it but didn't work so now I am using Vscode.
