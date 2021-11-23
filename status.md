@@ -2,11 +2,11 @@
 
 #### Your name
 
-TODO
+Gelan Balcha
 
 #### Your section leader's name
 
-TODO
+Steven Dang
 
 #### Project title
 
